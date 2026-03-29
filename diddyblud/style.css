@@ -1,0 +1,42 @@
+a {
+  color: white;
+}
+body {
+  background-color: black;
+}
+
+.indeximage {
+  display: flex;
+  justify-content: center;
+  align-items: top;
+  height: 450px;
+}
+
+.yo {
+  color: white;
+}
+
+h3 {
+  font-family: 'Pixelify Sans', sans-serif;
+  font-weight: 400;
+  text-align: center;
+  padding-left: 15%;
+  padding-right: 15%;
+  color:#86bada
+}
+h2 {
+  font-family: 'Pixelify Sans', sans-serif;
+  font-weight: 800;
+  text-align: center;
+  padding-left: 15%;
+  padding-right: 15%;
+  color:#86bada;
+  font-size: 32pt;
+}
+
+.sora {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 650px;
+}
