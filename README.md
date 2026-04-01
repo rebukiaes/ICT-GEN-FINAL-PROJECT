@@ -1,2 +1,2 @@
-# ICT-GEN-FINAL-PROJECT
-george 9b
+if ict is your strength, what are you without it
+-socrates
